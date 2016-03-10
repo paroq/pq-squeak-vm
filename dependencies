@@ -1,0 +1,2 @@
+part: 'pq-gcc', 	branch: '4.9.1'
+part: 'pq-cmake',	branch: '3.2.1'
